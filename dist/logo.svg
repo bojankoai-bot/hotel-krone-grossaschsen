@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" fill="none">
+  <!-- Crown Icon -->
+  <g transform="translate(20, 20)">
+    <!-- Crown Base -->
+    <path d="M10 60 L70 60 L65 75 L15 75 Z" fill="#78350f"/>
+    <!-- Crown Body -->
+    <path d="M15 60 L20 35 L35 45 L40 25 L55 45 L65 35 L65 60 Z" fill="#78350f"/>
+    <!-- Crown Jewels -->
+    <circle cx="40" cy="28" r="4" fill="#fbbf24"/>
+    <circle cx="22" cy="38" r="3" fill="#fbbf24"/>
+    <circle cx="58" cy="38" r="3" fill="#fbbf24"/>
+    <circle cx="40" cy="50" r="3" fill="#fbbf24"/>
+    <!-- Cross on top -->
+    <path d="M38 15 L42 15 L42 22 L48 22 L48 26 L42 26 L42 32 L38 32 L38 26 L32 26 L32 22 L38 22 Z" fill="#78350f"/>
+  </g>
+  
+  <!-- Hotel Krone Text -->
+  <text x="110" y="65" font-family="Georgia, serif" font-size="42" font-weight="bold" fill="#78350f">Hotel Krone</text>
+  
+  <!-- Subtitle -->
+  <text x="110" y="85" font-family="Georgia, serif" font-size="14" fill="#78716c" letter-spacing="3">GROSSSACHSEN</text>
+  
+  <!-- Decorative Line -->
+  <line x1="110" y1="95" x2="350" y2="95" stroke="#d6d3d1" stroke-width="1"/>
+  <circle cx="230" cy="95" r="3" fill="#78350f"/>
+</svg>
